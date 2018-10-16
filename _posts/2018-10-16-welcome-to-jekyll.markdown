@@ -3,6 +3,7 @@ layout: post
 title:  "Forms and Tables in HTML: Formatting nightmares"
 date:   2018-10-16 20:17:51 +0530
 categories: html css
+<!-- author: vishwa -->
 ---
 
 Forms and Tables are one of the few topics in HTML and CSS that are easy to get started with but to make them look nice, it requires good amount of effort.
