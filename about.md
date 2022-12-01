@@ -3,28 +3,21 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### [](#professional)Professional
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I would like to categorize myself as close to Machine learning engineering than any other job description. On a day to day basis, I code in Python, Java, Javascript. If I can define what I can do, it would be
 
-There are currently two themes built on Poole:
+*   Build Machine learning (Regression, Time series analysis, Random forest) & Deep learning(CNN - Image Processing) models
+*   Build backend features in Django (Python), Node (JS), Play (Java). I mainly work on building features that are required from the Data science front.
+*   Build simple web apps using React, Vanilla JS
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I completed my bachelor’s in 2013 in Electronics & Communications. Post that i have worked for last 6 years with companies like [Flipkart](https://www.flipkart.com/), [MuSigma](https://www.mu-sigma.com/) & [SigTuple](https://www.sigtuple.com/). I started my career as a Business analyst later transitioning into development then into data science.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### [](#personal)Personal
 
-## Setup
+Apart from work, I
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+*   Read books (You can check out my collections [here](http://goodreads.com/vishwaovi))
+*   Work out (Yoga 🧘, badminton 🏸, cycling 🚴‍♂️)
+*   Actively follow Rap music(Eminem, J Cole 🤘), UFC (Khabib, Rose 👊) & Comedy(Conan, Chappelle, CK 😄)
+*   I also like Bike rides & Treks 🙂
