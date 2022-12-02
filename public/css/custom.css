@@ -26,3 +26,10 @@
     font-size: 1.2rem;
     line-height: 2rem;
 }
+
+@media only screen and (max-width: 800px) {
+    .sidebar .img-wrapper {
+        width: 40%;
+        display: inline-block;
+    }
+}
