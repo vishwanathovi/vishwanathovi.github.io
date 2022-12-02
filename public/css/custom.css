@@ -9,3 +9,15 @@
 .copyright {
     font-size: 0.8rem;
 }
+
+.index-button {
+    background: #263a5a;
+    border-radius: 11px;
+    padding: 20px 45px;
+    margin-right: 5px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 1rem;
+    /* font: normal bold 26px/1 "Open Sans", sans-serif; */
+    text-align: center;
+}
