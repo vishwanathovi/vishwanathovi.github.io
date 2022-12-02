@@ -21,3 +21,8 @@
     /* font: normal bold 26px/1 "Open Sans", sans-serif; */
     text-align: center;
 }
+
+.index-content {
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
