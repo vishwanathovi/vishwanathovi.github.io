@@ -11,6 +11,6 @@ title: Home
 
 <p class="index-content">To read some of my articles, you can checkout the blog 👇</p>
 
-<button class="index-button">Resume</button>
-<button class="index-button">About</button>
-<button class="index-button">Blog</button>
+<a href="/resume/"><button class="index-button">Resume</button></a>
+<a href="/about/"><button class="index-button">About</button></a>
+<a href="/blog/"><button class="index-button">Blog</button></a>
