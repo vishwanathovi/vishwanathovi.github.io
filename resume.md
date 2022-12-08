@@ -7,11 +7,8 @@ title: Resume
 
 <div class="wrapper clearfix resume-main">
   <div class="left">
-
     <div class="name-hero">
-
       <div class="me-img"></div>
-
       <div class="name-text">
 
         <h1>Vishwanatha HM</h1>
@@ -29,54 +26,42 @@ title: Resume
     <div class="inner">
       <section>
         <h1>Employment</h1>
-        <p>Q1 2021 - Present | <em>Purplle.com | SDE3 - Machine Learning</em></p>
-        <p>Raised $78,000 in early stage funding, created initial design
-          concepts, and oversaw initial development. Currently oversee and maintain all front end code and server functionality.</p>
-        <p>Spring 2012 - Winter 2015 | <em>PadMatcher Inc. | CTO, Co-Founder</em></p>
-        <p>Raised $78,000 in early stage funding, created initial design
-          concepts, and oversaw initial development. Oversaw and maintained all front end code and server functionality.</p>
-        <p>Fall 2011 - Fall 2013 | <em>Penrose Realty llc. | Desinger & Assistant</em></p>
-        <p>Responsible for all technical areas. Maintain servers, computers, and provide in office technical support. Rebranded company from ground up including a fully responsive website. </p>
+        <p class="resume-h2" class="resume-h2">Q1 2021 - Present | <em>Purplle.com | SDE3 - Machine Learning</em></p>
+          <ul>
+            <li>Built a complete NLP setup containing - annotations, data clean-up, model training, inference flows</li>
+            <li>Built robust data processing pipelines to collect data from external sources and make them available internally.</li>
+          </ul>
+        <p class="resume-h2">Q3 2019 - Q3 2020 | <em>Kiwi games pvt. ltd. | SDE - Machine Learning</em></p>
+          <ul>
+            <li>Built a recommendation engine using AWS Personalise to suggest casual games. Increased Engagement by 20%. Increased long-term retention(Day 2-7) by 30%.</li>
+            <li>Built a push notification system that controlled notification flow to users to maximize engagement & minimize overflow.</li>
+          </ul>
+          <p class="resume-h2">Q2 2018 - Q2 2019 | <em>Sabatical | Learner</em></p>
+          <ul>
+            <li>Learned Full-stack web development in a boot camp called AltCampus. For 6 months, learned the MERN stack and completed 2 full-scale projects.</li>
+            <li>Spent the next 6 months learning Software development/ Data science concepts on my own.</li>
+          </ul>
+          <p class="resume-h2">Q1 2017 - Q1 2018 | <em>SigTuple | Product Architect</em></p>
+          <ul>
+            <li>Worked with a set of designers, engineers & data scientists in developing an AI-based solution.</li>
+            <li>Contributed to product design, roadmap creation, driving regular sprints & handling logistics & external stakeholders(Doctors, labs)</li>
+          </ul>
       </section>
       <section>
         <h1>Technical Skills</h1>
         <ul class="skill-set">
-          <li>Mobile Development</li>
-          <li>Xamarin</li>
-          <li>CSS3</li>
-          <li>Adobe Photoshop</li>
-          <li>HTML5</li>
-          <li>CSS3</li>
-          <li>JQUERY</li>
-          <li>UI Design</li>
-          <li>Company Branding</li>
-          <li>Responsive Web Design</li>
+          <li><b>Languages: </b> Python, Golang, C++, Javascript, SQL</li>
+          <li><b>Frameworks:</b> scikit-learn, Tensorflow, Spacy, React.js, Node.js</li>
+          <li><b>Analytical tools:</b> Pandas, Numpy, Matplotlib, Excel</li>
         </ul>
       </section>
       <section>
-        <h1>References</h1>
-        <p>William Grand | <em>Grand Interactive, llc. | CEO</em></p>
-        <p>(617) 448-0910 | wgrand@grandinteractive.com</p>
-        <p>Eric Chauvin | <em>PadMatcher Inc. | CEO</em></p>
-        <p>(617) 448-0910 | eric@padmatcher.com</p>
-        <p>Chris Heller <em>Penrose Realty LLC. | Broker</em></p>
-        <p>(617) 794-4554 | chris@penroserealty.com</p>
-      </section>
-      <section>
-        <h1>Personal Interests</h1>
-        <ul class="skill-set">
-          <li>Faith</li>
-          <li>Biblical Studies</li>
-          <li>Playing Guitar</li>
-          <li>Song Writing</li>
-          <li>Health & Nutrition</li>
-          <li>Reading</li>
-        </ul>
-      </section>
-      <section>
-        <div class="handmade">
-          <p>handmade by <em> Anthony Adamski</em></p>
-        </div>
+        <h1>Education</h1>
+        <p>Q1 2010 - Q1 2013 | <em>M S Ramaiah Institute of Technology | Electronics & Communications</em></p>
+          <ul>
+            <li>Bachelor’s degree in Electronics and Communication</li>
+            <li><b>Courses</b> - Image processing, Algorithms & data structures, Web development</li>
+          </ul>
       </section>
     </div>
 
