@@ -5,9 +5,9 @@ title: Home
 
 <h1> Hello 👋</h1>
 
-<p class="index-content">I'm Vishwa. I'm a Software engineer with 6+ years of experience. Currently working with Purplle in building NLP ML Piplelines.</p>
+<p class="index-content">I'm Vishwa. I'm a Software engineer with 6+ years of experience. Currently working with Turing & helping a US based AI company in creating quality training data for their Large language model</p>
 
-<p class="index-content">To know more about my skillset & past experience, you can checkout my Resume & About👇</p>
+<p class="index-content">To know more about my skillset & past experience, you can checkout my Resume & About Page👇</p>
 
 <p class="index-content">To read some of my articles, you can checkout the blog 👇</p>
 
