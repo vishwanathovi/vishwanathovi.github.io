@@ -26,7 +26,14 @@ title: Resume
     <div class="inner">
       <section>
         <h1>Employment</h1>
-        <p class="resume-h2" class="resume-h2">Q1 2021 - Present | <em>Purplle.com | SDE3 - Machine Learning</em></p>
+
+        <p class="resume-h2" class="resume-h2">Q4 2022 - Present | <em>Turing.com | Python developer</em></p>
+          <ul>
+            <li>Working with a world class AI company in building quality training data</li>
+            <li>Designing protocols & processes to measure and improve quality and diversity of the data</li>
+          </ul>
+
+        <p class="resume-h2" class="resume-h2">Q1 2021 - Q4 2022 | <em>Purplle.com | SDE3 - Machine Learning</em></p>
           <ul>
             <li>Built a complete NLP setup containing - annotations, data clean-up, model training, inference flows</li>
             <li>Built robust data processing pipelines to collect data from external sources and make them available internally.</li>
